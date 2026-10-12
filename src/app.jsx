@@ -63,7 +63,7 @@ export default function App() {
         </div>
 
         <img
-          src="src\picture\profile.jpg"
+          src="public/images/profile.jpg"
           alt="Christine's profile"
           className="h-56 w-56 rounded-full border-4 border-purple-400 object-cover shadow-[0_0_35px_#9333ea] md:h-72 md:w-72 lg:h-
 80 lg:w-80"
@@ -107,7 +107,7 @@ export default function App() {
     {/* To-Do List */}
     <div className="glass-card overflow-hidden">
       <img
-        src="src\picture\todo.png"
+        src="public/images/todo.png"
         alt="To-Do List Project"
         className="h-48 w-full object-cover"
       />
@@ -132,7 +132,7 @@ export default function App() {
     {/* Calculator */}
     <div className="glass-card overflow-hidden">
       <img
-        src="src\picture\calcu.png"
+        src="public/images/calcu.png"
         alt="Calculator Project"
         className="h-48 w-full object-cover"
       />
